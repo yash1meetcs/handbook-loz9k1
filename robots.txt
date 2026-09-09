@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yash1meetcs.github.io/handbook-loz9k1/sitemap.xml
